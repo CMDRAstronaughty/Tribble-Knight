@@ -1,0 +1,14 @@
+/Users/saimyint/Downloads/DataParseSharp/DataParser/bin/Debug/net8.0/DataParser
+/Users/saimyint/Downloads/DataParseSharp/DataParser/bin/Debug/net8.0/DataParser.deps.json
+/Users/saimyint/Downloads/DataParseSharp/DataParser/bin/Debug/net8.0/DataParser.runtimeconfig.json
+/Users/saimyint/Downloads/DataParseSharp/DataParser/bin/Debug/net8.0/DataParser.dll
+/Users/saimyint/Downloads/DataParseSharp/DataParser/bin/Debug/net8.0/DataParser.pdb
+/Users/saimyint/Downloads/DataParseSharp/DataParser/obj/Debug/net8.0/DataParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saimyint/Downloads/DataParseSharp/DataParser/obj/Debug/net8.0/DataParser.AssemblyInfoInputs.cache
+/Users/saimyint/Downloads/DataParseSharp/DataParser/obj/Debug/net8.0/DataParser.AssemblyInfo.cs
+/Users/saimyint/Downloads/DataParseSharp/DataParser/obj/Debug/net8.0/DataParser.csproj.CoreCompileInputs.cache
+/Users/saimyint/Downloads/DataParseSharp/DataParser/obj/Debug/net8.0/DataParser.dll
+/Users/saimyint/Downloads/DataParseSharp/DataParser/obj/Debug/net8.0/refint/DataParser.dll
+/Users/saimyint/Downloads/DataParseSharp/DataParser/obj/Debug/net8.0/DataParser.pdb
+/Users/saimyint/Downloads/DataParseSharp/DataParser/obj/Debug/net8.0/DataParser.genruntimeconfig.cache
+/Users/saimyint/Downloads/DataParseSharp/DataParser/obj/Debug/net8.0/ref/DataParser.dll
